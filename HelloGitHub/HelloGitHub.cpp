@@ -10,6 +10,7 @@ int main()
     std::cout << "Commit-Angel";
     std::cout << "\nTest 3 -Khani\n";
     std::cout << "One More Commit-Angel";
+    std::cout << "Commit Change";
     //Merged two lines of code
 }
 
