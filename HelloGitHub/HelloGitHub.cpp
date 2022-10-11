@@ -9,6 +9,8 @@ int main()
     std::cout << "Test-Khani\n";
     std::cout << "Commit-Angel";
     std::cout << "\nTest 3 -Khani\n";
+    std::cout << "One More Commit-Angel";
+    //Merged two lines of code
 }
 
 // Run program: Ctrl + F5 or Debug > Start Without Debugging menu
